@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactapp/static/css/main.915a0f9d.chunk.css",
+    "main.js": "/reactapp/static/js/main.c35f218a.chunk.js",
+    "main.js.map": "/reactapp/static/js/main.c35f218a.chunk.js.map",
+    "runtime-main.js": "/reactapp/static/js/runtime-main.36d3e869.js",
+    "runtime-main.js.map": "/reactapp/static/js/runtime-main.36d3e869.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/reactapp/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.2304b014.chunk.js": "/reactapp/static/js/2.2304b014.chunk.js",
+    "static/js/2.2304b014.chunk.js.map": "/reactapp/static/js/2.2304b014.chunk.js.map",
+    "index.html": "/reactapp/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/reactapp/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.915a0f9d.chunk.css.map": "/reactapp/static/css/main.915a0f9d.chunk.css.map",
+    "static/js/2.2304b014.chunk.js.LICENSE.txt": "/reactapp/static/js/2.2304b014.chunk.js.LICENSE.txt",
+    "static/media/Background.044667c0.jpeg": "/reactapp/static/media/Background.044667c0.jpeg",
+    "static/media/Chatapp1.fd9e1498.jpg": "/reactapp/static/media/Chatapp1.fd9e1498.jpg",
+    "static/media/Forgeted.0a3e2f85.jpg": "/reactapp/static/media/Forgeted.0a3e2f85.jpg",
+    "static/media/Logedin.988e7862.jpg": "/reactapp/static/media/Logedin.988e7862.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36d3e869.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.2304b014.chunk.js",
+    "static/css/main.915a0f9d.chunk.css",
+    "static/js/main.c35f218a.chunk.js"
+  ]
+}
